@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on artificial vision, 3D printer, IT teaching and FABLAB Laboratory
 - 🌱 I’m currently learning image processing
 - 👯 I’m looking to collaborate on artificial vision / Python programming / 3D printer design
-- 📫 How to reach me: nicolas.vargas.a@gmail.com
 - ⚡ Fun fact: Books :closed_book:, Music :musical_score:, thriller & mistery series :tv:
 
 ### About me... 😄
