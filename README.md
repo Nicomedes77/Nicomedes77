@@ -9,7 +9,6 @@
 - Embedded Firmware developer [LSE - FiUBA](https://lse.posgrados.fi.uba.ar/)
 - Teaching IT courses on [Centro de Formación Profesional Nº8](https://centro8smata.org.ar/) (Python programming, embedded programming, 3D printing & design, 3D printer maintenance and reparing course)
 - Collaborating on [INET](https://www.inet.edu.ar/) (R&D projects about 3D printing and electronic)
-- My [Linkedin profile](https://www.linkedin.com/in/nvargasalice/) and my [Padlet](https://padlet.com/vargasnicolas/nicol-s-vargas-alice-perfil-profesional-ivuhhjrhps5a8ey6) (in Spanish)
 
 ### Embedded System :star:
 I've worked with:
