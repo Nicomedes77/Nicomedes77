@@ -5,10 +5,10 @@
 - 📫 How to reach me: nicolas.vargas.a@gmail.com
 - ⚡ Fun fact: Read Books, listen to Music, watch thriller & mistery series
 
-About me:
-- Biomedical Engineer ()
-- Embedded Firmware developer
-- IT teacher on [Centro de Formación Profesional Nº8](centro8smata.org.ar) (Python programming, embedded programming, 3D printing & design, 3D printer maintenance and reparing course)
+### About me... 😄
+- Biomedical Engineer [Universidad Favaloro](https://www.favaloro.edu.ar/)
+- Embedded Firmware developer [LSE - FiUBA](https://lse.posgrados.fi.uba.ar/)
+- IT teacher on [Centro de Formación Profesional Nº8](https://centro8smata.org.ar/) (Python programming, embedded programming, 3D printing & design, 3D printer maintenance and reparing course)
 - Collaborating on [INET](https://www.inet.edu.ar/) (R&D projects about 3D printing and electronic)
 
 <!--
