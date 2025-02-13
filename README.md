@@ -28,6 +28,11 @@ I've worked with:
 * 3D design: FreeCAD, Tinkercad, librecad, Onshape
 * Preprocessing softwares: Cura Slicer, Prusa Slicer
 
+### Image processing 📷:
+* I'm working on a project to process and analyze Camelina seed sample images.
+* Programming in [ImageJ](https://imagej.net/).
+* Scientific images processing. 
+
 <!--
 **Nicomedes77/Nicomedes77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
